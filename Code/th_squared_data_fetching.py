@@ -7,7 +7,7 @@ import seaborn as sns
 import os
 from tqdm import tqdm  
 from googletrans import Translator
-api_key = 'AIzaSyDnMurqRmrbPdxCmDwmdhrkVHJhqNfj0i8'
+api_key = 'myKEY'
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
 join=os.path.join
 make=os.makedirs
