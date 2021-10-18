@@ -12,4 +12,4 @@ The user needs to provide a set of antagonistic elements (e.g: competitive compa
 # :bar_chart: Data
 Data mined with the GOOGLE PLACES api. 
 
-
+# ⚙️ Tools & Techniques
