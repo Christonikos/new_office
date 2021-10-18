@@ -13,10 +13,10 @@ The user needs to provide a set of antagonistic elements (e.g: competitive compa
 Data mined with the GOOGLE PLACES api. 
 
 # ⚙️ Tools & Techniques
-*✔️ Data mining/Web Scraping
-*✔️ Text/Data preprocessing
-*✔️ Machine Learning (Unsupervised clustering: k-means clustering)
-*✔️ Python3
+* ✔️ Data mining/Web Scraping
+* ✔️ Text/Data preprocessing
+* ✔️ Machine Learning (Unsupervised clustering: k-means clustering)
+* ✔️ Python3
 
 # :file_folder: Repository directories
 1. Code: The code is standalone and written entirely in a jupyter notebook. 
