@@ -13,3 +13,6 @@ The user needs to provide a set of antagonistic elements (e.g: competitive compa
 Data mined with the GOOGLE PLACES api. 
 
 # ⚙️ Tools & Techniques
+1. Data mining/Web Scraping
+2. Text/Data preprocessing
+3. Machine Learning (Unsupervised clustering: k-means clustering)
