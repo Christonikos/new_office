@@ -13,6 +13,13 @@ The user needs to provide a set of antagonistic elements (e.g: competitive compa
 Data mined with the GOOGLE PLACES api. 
 
 # ⚙️ Tools & Techniques
-1. Data mining/Web Scraping
-2. Text/Data preprocessing
-3. Machine Learning (Unsupervised clustering: k-means clustering)
+✔️. Data mining/Web Scraping
+✔️. Text/Data preprocessing
+✔️. Machine Learning (Unsupervised clustering: k-means clustering)
+✔️. Python3
+
+# :file_folder: Repository directories
+1. Code: The code is standalone and written entirely in a jupyter notebook. 
+2. Data: Example data for three Greek cities and the specific case of a new accounting company (Th-Squared).
+3. Report: Detailed analysis for the case study of the Th-Squared company.
+4. Presentation: A Beamer presentation of the case-study.
